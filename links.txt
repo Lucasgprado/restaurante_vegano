@@ -1,0 +1,6 @@
+texto de apresentação       link
+home                        index.html
+o restaurante               orestaurante.html
+cardápio                    cardapio.html
+contato                     contato.html
+localização                 localizacao.html 
