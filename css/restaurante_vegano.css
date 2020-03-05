@@ -1,0 +1,126 @@
+h1 {
+  opacity: 0;
+}
+
+header img {
+  width: 25%;
+  height: auto;
+}
+
+header {
+  text-align: center;
+  background-position: 0 -30px;
+  transition: ease 2s;
+  border-bottom: 50px solid rgb(255, 200, 0);
+  margin-bottom: 70px;
+}
+
+#home1 {
+  background-color: rgb(255, 200, 0);
+  padding: 40px;
+  margin-bottom: 70px;
+  text-align: justify;
+  font-family: Cinzel;
+}
+
+#home2 {
+  background-color: rgb(255, 200, 0);
+  padding: 40px;
+  text-align: justify;
+  font-family: Cinzel;
+  margin-bottom: 70px;
+}
+
+#imghome {
+  text-align: center;
+}
+
+#imghome img {
+  width: 350px;
+  height: 350px;
+  margin: 0 20px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+  transition: ease 2s;
+  opacity: 90%;
+}
+
+#imghome img:hover {
+  opacity: 100%;
+  cursor: pointer;
+}
+
+footer .card-header {
+  background-color: rgb(255, 200, 0);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 20pt;
+}
+footer .card-body {
+  background-color: rgb(255, 200, 0);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+footer .card-text {
+  background-color: rgb(255, 200, 0);
+  color: rgb(0, 0, 0);
+  text-align: center;
+}
+
+#orestaurante {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#orestaurante img {
+  width: 500px;
+  height: 500px;
+  margin-bottom: 20px;
+}
+
+p {
+  padding-left: 50px;
+  padding-right: 50px;
+  text-align: justify;
+  line-height: 25px;
+  margin-bottom: 25px;
+  font-family: Cinzel;
+  font-size: 14pt;
+}
+
+h2 {
+  font-family: Cinzel;
+  color: rgb(0, 0, 0);
+  font-size: 23pt;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#linha,
+#imagem,
+#linha {
+  display: table;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#linha,
+#imagem img {
+  width: 300px;
+  height: 250px;
+  border-radius: 50%;
+  transition: ease 0.8s;
+  text-align: center;
+}
+
+#imagem {
+  width: 300px;
+  height: 250px;
+  float: left;
+}
+
+#qrcode {
+  text-align: center;
+}

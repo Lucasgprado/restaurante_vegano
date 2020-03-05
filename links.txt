@@ -2,5 +2,13 @@ texto de apresentação       link
 home                        index.html
 o restaurante               orestaurante.html
 cardápio                    cardapio.html
+  entradas                    entradas.html
+   pratos principais            pratosprincipais.html
+    sobremesas                    sobremesas.html
 contato                     contato.html
-localização                 localizacao.html 
+localização                 localizacao.html
+
+                
+                
+                
+ 
